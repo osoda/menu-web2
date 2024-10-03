@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Pizza doble carne",
+        "description": "Pizza doble carne 300gr. Puedes elegir entre cerdo, pollo y res, acompañada con queso y salsa de su preferencia",
+        "price": 29900,
+        "image": "Pizza",
+        "category": "Comida rapida"
+    },
+    {
+        "title": "Perro caliente",
+        "description": "Perro caliente sencillo 150gr. Contiene salchicha ranchera, papa chongo salsa de tomate, mayonesa y cebolla",
+        "price": 9000,
+        "image": "PerroCaliente",
+        "category": "Comida rapida"
+    },
+    {
+        "title": "Salchipapa",
+        "description": "Salchipapa 500gr para 2 personas de buen comer, acompañada de verduras y salsas especiales con 3 tipos de quesos incluyendo el costeño",
+        "price": 31000,
+        "image": "Salchipapa",
+        "category": "Comida rapida"
+    },
+    {
+        "title": "Hamburguesa",
+        "description": "Hamburguesa 200gr. Contiene carne de res a la parrilla, junto con ensaladas y cebolla caramelizada. Aparte se entregan hasta 2 tipos de salsas ",
+        "price": 25000,
+        "image": "Hamburguesa",
+        "category": "Comida rapida"
+    }
+]
