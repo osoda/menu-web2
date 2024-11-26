@@ -4,27 +4,104 @@
         "description": "Pizza doble carne 300gr. Puedes elegir entre cerdo, pollo y res, acompañada con queso y salsa de su preferencia",
         "price": 29900,
         "image": "Pizza",
-        "category": "Comida rapida"
+        "category": "Comidas rapidas"
     },
     {
         "title": "Perro caliente",
         "description": "Perro caliente sencillo 150gr. Contiene salchicha ranchera, papa chongo salsa de tomate, mayonesa y cebolla",
         "price": 9000,
         "image": "PerroCaliente",
-        "category": "Comida rapida"
+        "category": "Comidas rapidas"
     },
     {
         "title": "Salchipapa",
         "description": "Salchipapa 500gr para 2 personas de buen comer, acompañada de verduras y salsas especiales con 3 tipos de quesos incluyendo el costeño",
         "price": 31000,
         "image": "Salchipapa",
-        "category": "Comida rapida"
+        "category": "Comidas rapidas"
     },
     {
         "title": "Hamburguesa",
         "description": "Hamburguesa 200gr. Contiene carne de res a la parrilla, junto con ensaladas y cebolla caramelizada. Aparte se entregan hasta 2 tipos de salsas ",
         "price": 25000,
         "image": "Hamburguesa",
-        "category": "Comida rapida"
+        "category": "Comidas rapidas"
+    },
+    {
+        "title": "Arepa",
+        "description": "Arepa tradicional colombiana, acompañada con abundante queso y mantequilla cremosa",
+        "price": 4000,
+        "image": "Arepa",
+        "category": "Comidas rapidas"
+    },
+    {
+        "title": "Empanada",
+        "description": "Empanada tradicional rellena de 3 tipos de proteinas",
+        "price": 4000,
+        "image": "Empanada",
+        "category": "Comidas rapidas"
+    },
+    {
+        "title": "Nachos con guacamole",
+        "description": "Nachos de maiz, con salsa de guacomole para 2 personas de buen comer",
+        "price": 8000,
+        "image": "NachosGuacamole",
+        "category": "Entradas"
+    },
+    {
+        "title": "Papitas fritas",
+        "description": "Papitas fritas a la francesa para 2 personas con salsa de tomate y mayonesa",
+        "price": 8000,
+        "image": "PapitasFritas",
+        "category": "Entradas"
+    },
+    {
+        "title": "Agua",
+        "description": "Agua natural 200 ml",
+        "price": 3000,
+        "image": "Agua",
+        "category": "Bebidas"
+    },
+    {
+        "title": "Jugo de fresa",
+        "description": "Jugo natural de fresa con endulzante natural, estevia o sin endulzante",
+        "price": 7000,
+        "image": "JugoFresa",
+        "category": "Bebidas"
+    },
+    {
+        "title": "Jugo de maracuya",
+        "description": "Jugo natural de maracuya con endulzante natural, estevia o sin endulzante",
+        "price": 7000,
+        "image": "JugoMaracuya",
+        "category": "Bebidas"
+    },
+    {
+        "title": "Jugo de mango",
+        "description": "Jugo natural de mango verde con endulzante natural, estevia o sin endulzante",
+        "price": 25000,
+        "image": "JugoMango",
+        "category": "Bebidas"
+    },
+    {
+        "title": "Limonada de coco",
+        "description": "Limonada de coco con endulzante natural, estevia o sin endulzante",
+        "price": 7000,
+        "image": "LimonadaCoco",
+        "category": "Bebidas"
+    },
+    {
+        "title": "Té",
+        "description": "Té frio con hielo",
+        "price": 25000,
+        "image": "Te",
+        "category": "Bebidas"
+    },
+    {
+        "title": "Tarta de queso",
+        "description": "Tarta de queso  al horno, estilo casera, cremosa y tradicional",
+        "price": 25000,
+        "image": "TartaQueso",
+        "category": "Postres"
     }
 ]
